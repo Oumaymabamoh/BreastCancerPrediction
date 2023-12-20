@@ -26,7 +26,8 @@ The dataset (`data.csv`) comprises various features related to cell nuclei chara
 The `notebooks/modeling.ipynb` notebook showcases the process of model development. We experimented with different algorithms, prioritizing accuracy and interpretability. Cross-validation results and model evaluations are presented.
 
 ## GUI
-To enhance usability, a graphical user interface (GUI) is proposed for easy interaction with the predictive model. The `src/gui` folder contains code for the GUI.
+To enhance usability, a graphical user interface (GUI) is proposed for easy interaction with the predictive model.
+![Blank diagram - Page 2](https://github.com/Oumaymabamoh/BreastCancerPrediction/assets/134213098/a12f322f-032a-4cd1-8b35-e68ee19779d9)
 
 ## Requirements
 Ensure you have the required dependencies installed. Use the following command:
