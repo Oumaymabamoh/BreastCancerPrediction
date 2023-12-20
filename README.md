@@ -16,8 +16,7 @@ This project focuses on the development of an interpretable machine learning mod
 ## Project Structure
 The project is organized following the CRISP-DM methodology. Key folders include:
 - `data`: Contains the dataset (`data.csv`) and any additional data-related files.
-- `notebooks`: Includes Jupyter notebooks for data exploration, modeling, and analysis.
-- `src`: Consists of source code, such as Python scripts, for model training, evaluation, and GUI development.
+- `src`: Consists of source code, for data exploration, modeling, and analysis.
 
 ## Data
 The dataset (`data.csv`) comprises various features related to cell nuclei characteristics. Explore the dataset to understand the input variables and target labels.
