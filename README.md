@@ -1,7 +1,7 @@
 # Breast Cancer Prediction Project
 
 ## Overview
-This project focuses on the development of an interpretable machine learning model for predicting breast cancer malignancy. Leveraging a dataset rich in cell nuclei characteristics, we aim to create a model that not only achieves high accuracy but also provides insights into the decision-making process.
+This project focuses on the development of an interpretable machine learning model for predicting breast cancer malignancy. Leveraging a dataset rich in cell nuclei characteristics, we aim to create a model that not only achieves high accuracy but also provides insights into the decision-making process. The primary mission is to craft a classification model capable of predicting tumor malignancy with exceptional accuracy (F1 score > 0.95). More crucially, the model is designed to be interpretable, unraveling the complexities of its decision-making process. This transparency is not just a technical pursuit but a strategic endeavor to instill trust among non-experts and foster broader acceptance of technology in the medical domain
 
 ## Table of Contents
 - [Project Structure](#project-structure)
@@ -17,6 +17,11 @@ This project focuses on the development of an interpretable machine learning mod
 The project is organized following the CRISP-DM methodology. Key folders include:
 - `data`: Contains the dataset (`data.csv`) and any additional data-related files.
 - `src`: Consists of source code, for data exploration, modeling, and analysis.
+- data_exploration: Contains scripts or notebooks dedicated to exploring and understanding the dataset. Visualizations, statistical analyses, and any preprocessing steps are conducted here.
+-modeling: This section encompasses the code for building, training, and evaluating machine learning models. It includes the development of the interpretable breast cancer prediction model, hyperparameter tuning, and cross-validation.
+-analysis: Holds scripts or notebooks focused on in-depth analysis of model results, feature importance, and error analysis. This phase is crucial for extracting meaningful insights from the developed model.
+- `README.md`:The README file serves as the project's central documentation hub. It provides an overview of the project, instructions on setting up the environment, running the code.
+- `requirements.txt`:  This file enumerates the project's dependencies and required packages. It ensures a consistent environment across different systems and facilitates easy setup by running pip install -r requirements.txt.
 
 ## Data
 The dataset (`data.csv`) comprises various features related to cell nuclei characteristics. Explore the dataset to understand the input variables and target labels.
