@@ -25,9 +25,11 @@ The project is organized following the CRISP-DM methodology. Key folders include
 
 ## Data
 The dataset (`data.csv`) comprises various features related to cell nuclei characteristics. Explore the dataset to understand the input variables and target labels.
+<img width="660" alt="Screen Shot 2023-12-15 at 14 03 38" src="https://github.com/Oumaymabamoh/BreastCancerPrediction/assets/134213098/711d961c-41e7-49d5-8ac7-cb6db23afb5e">
 
 ## Modeling
 The `src/modeling.ipynb` notebook showcases the process of model development. We experimented with different algorithms, prioritizing accuracy and interpretability. Cross-validation results and model evaluations are presented.
+<img width="670" alt="Screen Shot 2023-12-17 at 21 49 08" src="https://github.com/Oumaymabamoh/BreastCancerPrediction/assets/134213098/353b8b0e-3170-4161-a9b2-fc9cb7bc60b8">
 
 ## GUI
 To enhance usability, a graphical user interface (GUI) is proposed for easy interaction with the predictive model.
