@@ -23,7 +23,7 @@ The project is organized following the CRISP-DM methodology. Key folders include
 The dataset (`data.csv`) comprises various features related to cell nuclei characteristics. Explore the dataset to understand the input variables and target labels.
 
 ## Modeling
-The `notebooks/modeling.ipynb` notebook showcases the process of model development. We experimented with different algorithms, prioritizing accuracy and interpretability. Cross-validation results and model evaluations are presented.
+The `src/modeling.ipynb` notebook showcases the process of model development. We experimented with different algorithms, prioritizing accuracy and interpretability. Cross-validation results and model evaluations are presented.
 
 ## GUI
 To enhance usability, a graphical user interface (GUI) is proposed for easy interaction with the predictive model.
