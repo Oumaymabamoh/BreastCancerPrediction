@@ -26,7 +26,7 @@ The dataset (`data.csv`) comprises various features related to cell nuclei chara
 
 ## Modeling
 The `src/modeling.ipynb` notebook showcases the process of model development. We experimented with different algorithms, prioritizing accuracy and interpretability. Cross-validation results and model evaluations are presented.
-<img width="670" alt="Screen Shot 2023-12-17 at 21 49 08" src="https://github.com/Oumaymabamoh/BreastCancerPrediction/assets/134213098/353b8b0e-3170-4161-a9b2-fc9cb7bc60b8">
+<img width="529" alt="Screen Shot 2023-12-20 at 03 23 53" src="https://github.com/Oumaymabamoh/BreastCancerPrediction/assets/134213098/75fa2ad9-78a5-49f8-aa55-fb1dba968f4f">
 
 ## GUI
 To enhance usability, a graphical user interface (GUI) is proposed for easy interaction with the predictive model.
