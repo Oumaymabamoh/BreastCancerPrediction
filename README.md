@@ -9,9 +9,6 @@ This project focuses on the development of an interpretable machine learning mod
 - [Modeling](#modeling)
 - [GUI](#gui)
 - [Requirements](#requirements)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Structure
 The project is organized following the CRISP-DM methodology. Key folders include:
